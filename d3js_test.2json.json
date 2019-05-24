@@ -15,54 +15,63 @@
         {"name": "Cancers", "weight": 21.85, "code": "Canc"}
       ]
     },
+    {
       "name": "Diabetes & Obesity",
       "color": "#a3c5cb",
       "children": [
         {"name": "Diabetes & Obesity", "weight": 4.55, "code": "Obes"}
       ]
     },
+    {
       "name": "Dementia",
       "color": "#abb6ab",
       "children": [
         {"name": "Dementia", "weight": 4.83, "code": "Deme"}
       ]
     },
+    {
       "name": "Alzheimer's, Parkinson's & MS",
       "color": "#b7d8a9",
       "children": [
         {"name": "Alzheimer's, Parkinson's & MS", "weight": 7.69, "code": "Alzh"}
       ]
     },
+    {
       "name": "Heart Disease & Stroke",
       "color": "#ffe7a4",
       "children": [
         {"name": "Heart Disease & Stroke", "weight": 30.53, "code": "Hart"}
       ]
     },
+    {
       "name": "COPD & Pneumonia",
       "color": "#f7c098",
       "children": [
         {"name": "COPD & Pneumonia", "weight": 9.9, "code": "COPD"}
       ]
     },
+    {
       "name": "Liver Disease",
       "color": "#f3a39c",
       "children": [
         {"name": "Liver Disease", "weight": 3.83, "code": "Livr"}
       ]
     },
+    {
       "name": "Kidney Disease",
       "color": "#F3F3F3",
       "children": [
         {"name": "Kidney Disease", "weight": 2.54, "code": "Kidy"}
       ]
     },
+    {
       "name": "Substance abuse, violence, and accidents",
       "color": "#BABABA",
       "children": [
         {"name": "Substance abuse, violence, and accidents", "weight": 8.8, "code": "SVA"}
       ]
     },
+    {
       "name": "Other Causes of Death",
       "color": "#797979",
       "children": [
