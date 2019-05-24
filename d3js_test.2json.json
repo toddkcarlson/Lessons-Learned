@@ -1,0 +1,19 @@
+  "name": "world",
+  "children": [
+    {
+      "name": "Infection",
+      "color": "#b5a8d8",
+      "children": [
+        {"name": "Infection", "weight": 2.47, "code": "Infe"}
+      ]
+    }
+    },
+    {
+      "name": "Cancers",
+      "color": "#bfe5df",
+      "children": [
+        {"name": "Cancers", "weight": 21.85, "code": "Canc"}
+      ]
+    }
+  ]
+}
