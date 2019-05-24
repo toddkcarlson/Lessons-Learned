@@ -78,7 +78,8 @@
         {"name": "South Africa", "weight": 0.42, "code": "ZA"}
       ]
     },
-    {"name": "Rest of the World",
+    {
+      "name": "Rest of the World",
       "color": "#592c94",
       "children": [
         {"name": "Rest of the World", "weight": 9.41, "code": "RotW"}
